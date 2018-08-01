@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/npgall/concurrent-trees.svg?branch=master)](https://travis-ci.org/npgall/concurrent-trees)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.googlecode.concurrent-trees/concurrent-trees/badge.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.googlecode.concurrent-trees%22%20AND%20a%3Aconcurrent-trees)
+[![Reference Status](https://www.versioneye.com/java/com.googlecode.concurrent-trees:concurrent-trees/reference_badge.svg?style=flat-square)](https://www.versioneye.com/java/com.googlecode.concurrent-trees:concurrent-trees/references)
 
 
 _"A tree is a tree. How many more do you have to look at?"_
@@ -105,7 +106,7 @@ Concurrent-Trees is in Maven Central. See [Downloads](documentation/Downloads.md
 
 ## Project Status ##
 
-As of writing (December 2016), version 2.6.0 of concurrent-trees is the latest release.
+As of writing (July 2017), version 2.6.1 of concurrent-trees is the latest release.
   * Full test coverage
   * Over 14,000 downloads per month and over 150,000 downloads to-date
 
